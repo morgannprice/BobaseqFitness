@@ -8,10 +8,10 @@ barcode into fitness values for each fragment and to identify
 biologically consistent hits. There is also a function to plot the
 per-fragment fitness values.
 
-To use long reads to associate barcodes with insert locations, see
+To use long reads to associate barcodes with insert locations, use
 
 https://github.com/OGalOz/Boba-seq
 
-To count barcodes from BarSeq data, see bin/MultiCodes.pl in
+To turn BarSeq reads into counts per barcode, use bin/MultiCodes.pl in
 
 https://bitbucket.org/berkeleylab/feba/src
